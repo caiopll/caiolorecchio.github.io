@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7N-QnmQAAAAJ&hl=en"
   email            :  "caio.lorecchio@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "http://math.meta.stackexchange.com/users/595399/caio-lorecchio"
+  stackoverflow    : "caio-lorecchio"
   steam            :
   tumblr           :
   twitter          : "caiopll"
