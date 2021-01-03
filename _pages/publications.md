@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-======
+
 Working papers 
 ======
 [Dynamic Information Design under Constrained Information Rules](https://drive.google.com/file/d/1pQUdeLEAiMkEHaPjuNzBJM_WxiiDdDIg/view) (with [Daniel Monte](https://sites.google.com/site/dma33danielmonte/))
