@@ -21,7 +21,7 @@ Working papers
 
 Work in progress  
 ======
-Persuading Crowds
+<ins>Persuading Crowds</ins>
 
 <p style='text-align: justify;'> A sequence of short-lived agents must choose which action to take under a fixed, but unknown, state of the world. Prior to the realization of the state, a long-lived principal designs and commits to a dynamic information policy in order to persuade agents towards his most preferred action. The principal’s persuasion power is potentially limited by the existence of conditionally independent and identically distributed private signals for the agents as well as their ability to observe history of past actions. I characterize the problem for the principal in terms of a dynamic belief manipulation mechanism and analyze its implication for social learning. I prove that the optimal policy is the static concavification of principal's payoff in every period (greedy policy) and it has the same value of a policy that discourages all agents from following own signals (single disclosure policy), for a sufficiently patient principal. I also show when the optimal policy and the single disclosure policy coincide, for any given discount factor and for the long-concave class of distribution of private beliefs.</p>
 
